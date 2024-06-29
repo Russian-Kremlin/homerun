@@ -62,6 +62,7 @@ purple-book <br/>
 brown-book <br/>
 black-book <br/>
 notebook <br/>
+flag <br/>
 star <br/>
 cylinder <br/>
 square <br/>
@@ -77,6 +78,8 @@ pencil <br/>
 pen <br/>
 eraser <br/>
 clip <br/>
+scissors <br/>
+paper <br/>
 money <br/>
 wallet <br/>
 hat <br/>
@@ -113,7 +116,6 @@ bridge <br/>
 lighthouse <br/> 
 leaf <br/>
 deck <br/>
-syringe <br/>
 photograph <br/>
 microphone <br/>
 lightbulb <br/>
@@ -136,3 +138,24 @@ protoon <br/>
 quark <br/>
 foton <br/>
 lepton <br/>
+blood <br/>
+plasma <br/>
+cat <br/>
+dog <br/>
+eagle <br/>
+pigeon <br/>
+tiger <br/>
+lion <br/>
+giraffe <br/>
+hippopotamus <br/>
+aid kit <br/>
+band-aid <br/>
+gauze <br/>
+bandage <br/>
+syringe <br/>
+thermometer <br/>
+cotton <br/>
+ice-bag <br/>
+face-mask <br/>
+latex-gloves <br/>
+toilet-paper  <br/>
