@@ -87,5 +87,11 @@ corn <br/>
 grape <br/>
 orange <br/>
 strawberry <br/>
+stove <br/>
+fridge <br/>
+table <br/>
+microwave <br/>
+basement <br/>
+stairs <br/>
 bridge <br/>
 lighthouse <br/>
