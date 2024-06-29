@@ -161,3 +161,4 @@ face-mask <br/>
 latex-gloves <br/>
 toilet-paper <br/>
 mushroom <br/>
+moon <br/>
