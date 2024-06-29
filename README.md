@@ -162,3 +162,11 @@ latex-gloves <br/>
 toilet-paper <br/>
 mushroom <br/>
 moon <br/>
+toolbox <br/>
+camera <br/>
+polaroid <br/>
+phosphorus <br />
+red-phosphorus <br />
+yellow-phosphorus <br />
+green-phosphorus <br />
+white-phosphorus <br />
