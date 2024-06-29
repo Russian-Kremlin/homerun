@@ -89,6 +89,7 @@ blueberry <br/>
 corn <br/>
 grape <br/>
 orange <br/>
+pineapple <br/>
 strawberry <br/>
 lighter <br/>
 clock <br/>
@@ -121,7 +122,17 @@ cigarrete <br/>
 egg <br/>
 beef <br/>
 milk <br/>
+champagne <br/>
 martini <br/>
 rum <br/>
 vodka <br/>
 whiskey <br/>
+pool <br/>
+sandbox <br/>
+toy soldier <br/>
+blackhole <br/>
+eletron <br/>
+protoon <br/>
+quark <br/>
+foton <br/>
+lepton <br/>
