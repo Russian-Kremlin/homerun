@@ -39,6 +39,7 @@ white-book <br/>
 yellow-book <br/>
 purple-book <br/>
 brown-book <br/>
+black-book <br/>
 notebook <br/>
 star <br/>
 cylinder <br/>
