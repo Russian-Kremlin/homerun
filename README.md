@@ -168,6 +168,9 @@ lion <br/>
 mouse <br/>
 giraffe <br/>
 hippopotamus <br/>
+zebra <br/>
+panda <br/>
+penguin <br/>
 aid kit <br/>
 band-aid <br/>
 condom <br/>
@@ -190,6 +193,7 @@ phosphorus <br />
 red-phosphorus <br />
 yellow-phosphorus <br />
 green-phosphorus <br />
+blue-phosphorus <br />
 black-phosphorus <br />
 white-phosphorus <br />
 chair <br />
@@ -211,6 +215,7 @@ magic-stick <br />
 football <br />
 satellite <br />
 airplane <br />
+window <br/>
 left <br />
 right <br />
 lawyer <br />
