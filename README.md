@@ -4,47 +4,47 @@ A generator of 512 packages collection.
 
 ## LIST
 
-/* IGNORED */
-- calendar
-- compass
-- snowflake
-- umbrella
-- pepper-spray
-- fire-extinguisher
-- taxi-cab
-- flashlight
-- tennis
-- tent
-- bullseye
-- watch
-- eagle
-- placard
-- gas-station
-- sunflower
-- sunglasses
-- christmas-tree
-- guitar
-- telephone
-- camping
-- joystick
-- toolbox
-- trash-can
-- magnet
-/* END OF IGNORED */
-
-- red-book
-- green-book
-- blue-book
-- white-book
-- yellow-book
-- purple-book
-- brown-book
-- notebook
-- star
-- cylinder
-- square
-- rectangle
-- triangle
-- chicken
-- cow
-- pig
+/* IGNORED */ <br/>
+calendar <br/>
+compass <br/>
+snowflake <br/>
+umbrella <br/>
+pepper-spray <br/>
+fire-extinguisher <br/>
+taxi-cab <br/>
+flashlight <br/>
+tennis <br/>
+tent <br/>
+bullseye <br/>
+watch <br/>
+eagle <br/>
+placard <br/>
+gas-station <br/>
+sunflower <br/>
+sunglasses <br/>
+christmas-tree <br/>
+guitar <br/>
+telephone <br/>
+camping <br/>
+joystick <br/>
+toolbox <br/>
+trash-can <br/>
+magnet <br/>
+/* END OF IGNORED */ <br/>
+<br/><br/><br/>
+red-book <br/>
+green-book <br/>
+blue-book <br/>
+white-book <br/>
+yellow-book <br/>
+purple-book <br/>
+brown-book <br/>
+notebook <br/>
+star <br/>
+cylinder <br/>
+square <br/>
+rectangle <br/>
+triangle <br/>
+chicken <br/>
+cow <br/>
+pig <br/>
