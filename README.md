@@ -47,6 +47,7 @@ harp <br/>
 bass drum <br/>
 snare drum <br/>
 percussion <br/>
+picollo <br/>
 trombone <br/>
 timpani <br/>
 cymbals <br/>
