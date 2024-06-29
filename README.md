@@ -82,6 +82,7 @@ scissors <br/>
 paper <br/>
 money <br/>
 wallet <br/>
+watch <br/>
 hat <br/>
 shirt <br/>
 pants <br/>
@@ -158,4 +159,5 @@ cotton <br/>
 ice-bag <br/>
 face-mask <br/>
 latex-gloves <br/>
-toilet-paper  <br/>
+toilet-paper <br/>
+mushroom <br/>
