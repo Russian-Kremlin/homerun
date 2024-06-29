@@ -194,3 +194,6 @@ magic-stick <br />
 football <br />
 satellite <br />
 airplane <br />
+left <br />
+right <br />
+lawyer <br />
