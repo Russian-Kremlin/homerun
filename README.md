@@ -125,6 +125,7 @@ cigarrete <br/>
 egg <br/>
 beef <br/>
 milk <br/>
+beer <br />
 champagne <br/>
 martini <br/>
 rum <br/>
