@@ -172,3 +172,4 @@ yellow-phosphorus <br />
 green-phosphorus <br />
 black-phosphorus <br />
 white-phosphorus <br />
+chair <br />
