@@ -30,8 +30,11 @@ joystick <br/>
 toolbox <br/>
 trash-can <br/>
 magnet <br/><br/>
-// END OF IGNORED <br/>
+// END OF IGNORED
+
 <br/><br/><br/>
+
+fireworks <br/>
 red-book <br/>
 green-book <br/>
 blue-book <br/>
