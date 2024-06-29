@@ -87,3 +87,5 @@ corn <br/>
 grape <br/>
 orange <br/>
 strawberry <br/>
+bridge <br/>
+lighthouse <br/>
