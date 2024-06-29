@@ -171,6 +171,9 @@ hippopotamus <br/>
 zebra <br/>
 panda <br/>
 penguin <br/>
+elephant <br/>
+peacock <br/>
+fish <br/>
 aid kit <br/>
 band-aid <br/>
 condom <br/>
