@@ -4,7 +4,7 @@ A generator of 512 packages collection.
 
 ## LIST
 
-// IGNORED <br/><br/>
+// IGNORED //<br/>
 calendar <br/>
 compass <br/>
 snowflake <br/>
@@ -29,10 +29,10 @@ camping <br/>
 joystick <br/>
 toolbox <br/>
 trash-can <br/>
-magnet <br/><br/>
-// END OF IGNORED
+magnet <br/>
+// END OF IGNORED //
 
-<br/><br/><br/>
+<br/><br/>
 
 fireworks <br/>
 red-book <br/>
