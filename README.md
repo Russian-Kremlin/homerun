@@ -82,8 +82,10 @@ scissors <br/>
 paper <br/>
 money <br/>
 wallet <br/>
+passport <br />
 watch <br/>
 hat <br/>
+belt <br />
 shirt <br/>
 pants <br/>
 apple <br/>
@@ -122,6 +124,7 @@ microphone <br/>
 lightbulb <br/>
 wood-doll <br/>
 cigarrete <br/>
+cheese <br />
 egg <br/>
 beef <br/>
 milk <br/>
@@ -173,3 +176,16 @@ green-phosphorus <br />
 black-phosphorus <br />
 white-phosphorus <br />
 chair <br />
+photoshop <br />
+fedora <br />
+white-hat <br />
+black-hat <br />
+red-hat <br />
+gold <br />
+ruby <br />
+diamond <br />
+silver <br />
+copper <br />
+gun <br />
+distinctive <br />
+helmet <br />
