@@ -33,6 +33,23 @@ magnet <br/>
 // END OF IGNORED //
 <br/><br/>
 fireworks <br/>
+french-horn <br/>
+piano <br/>
+cello <br/>
+violin <br/>
+bassoon <br/>
+oboe <br/>
+clarinet <br/>
+trumpet <br/>
+flute <br/>
+tuba <br/>
+harp <br/>
+bass drum <br/>
+snare drum <br/>
+percussion <br/>
+trombone <br/>
+timpani <br/>
+cymbals <br/>
 red-book <br/>
 green-book <br/>
 blue-book <br/>
