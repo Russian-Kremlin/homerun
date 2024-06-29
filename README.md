@@ -81,4 +81,9 @@ wallet <br/>
 hat <br/>
 shirt <br/>
 pants <br/>
-
+apple <br/>
+banana <br/>
+corn <br/>
+grape <br/>
+orange <br/>
+strawberry <br/>
