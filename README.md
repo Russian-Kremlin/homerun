@@ -86,6 +86,7 @@ passport <br />
 watch <br/>
 hat <br/>
 belt <br />
+tie <br />
 shirt <br/>
 pants <br/>
 apple <br/>
