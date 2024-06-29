@@ -31,9 +31,7 @@ toolbox <br/>
 trash-can <br/>
 magnet <br/>
 // END OF IGNORED //
-
 <br/><br/>
-
 fireworks <br/>
 red-book <br/>
 green-book <br/>
