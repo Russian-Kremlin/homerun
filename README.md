@@ -88,17 +88,25 @@ corn <br/>
 grape <br/>
 orange <br/>
 strawberry <br/>
+lighter <br/>
+clock <br/>
 stove <br/>
 fridge <br/>
+tea <br/>
+coffee <br/>
 cotton-candy <br/>
 popcorn <br/>
 caramel <br/>
 churros <br/>
 lollipop <br/>
 marshmellow <br/>
+ice cream <br/>
 table <br/>
 microwave <br/>
 basement <br/>
 stairs <br/>
 bridge <br/>
-lighthouse <br/>
+lighthouse <br/> 
+leaf <br/>
+syringe <br/>
+photograph <br/>
