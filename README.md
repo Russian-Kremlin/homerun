@@ -76,3 +76,9 @@ pencil <br/>
 pen <br/>
 eraser <br/>
 clip <br/>
+money <br/>
+wallet <br/>
+hat <br/>
+shirt <br/>
+pants <br/>
+
