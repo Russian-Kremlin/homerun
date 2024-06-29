@@ -87,6 +87,7 @@ watch <br/>
 hat <br/>
 belt <br />
 tie <br />
+bikini <br/>
 shirt <br/>
 pants <br/>
 apple <br/>
@@ -198,3 +199,11 @@ airplane <br />
 left <br />
 right <br />
 lawyer <br />
+wardrobe <br/>
+bed <br/>
+shower <br/>
+toilet <br/>
+tv <br/>
+radio <br/>
+journal <br/>
+magazine <br/>
