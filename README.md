@@ -1,6 +1,6 @@
 # homerun
 
-A generator of 512 packages collection.
+A generator of 256 packages collection.
 
 ## LIST
 
