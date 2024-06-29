@@ -30,6 +30,7 @@ joystick <br/>
 toolbox <br/>
 trash-can <br/>
 magnet <br/>
+bubblegum <br/>
 // END OF IGNORED //
 <br/>
 <br/>
@@ -89,6 +90,12 @@ orange <br/>
 strawberry <br/>
 stove <br/>
 fridge <br/>
+cotton-candy <br/>
+popcorn <br/>
+caramel <br/>
+churros <br/>
+lollipop <br/>
+marshmellow <br/>
 table <br/>
 microwave <br/>
 basement <br/>
