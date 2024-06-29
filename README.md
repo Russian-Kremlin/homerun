@@ -84,6 +84,8 @@ shirt <br/>
 pants <br/>
 apple <br/>
 banana <br/>
+berry <br/>
+blueberry <br/>
 corn <br/>
 grape <br/>
 orange <br/>
@@ -109,5 +111,17 @@ stairs <br/>
 bridge <br/>
 lighthouse <br/> 
 leaf <br/>
+deck <br/>
 syringe <br/>
 photograph <br/>
+microphone <br/>
+lightbulb <br/>
+wood-doll <br/>
+cigarrete <br/>
+egg <br/>
+beef <br/>
+milk <br/>
+martini <br/>
+rum <br/>
+vodka <br/>
+whiskey <br/>
