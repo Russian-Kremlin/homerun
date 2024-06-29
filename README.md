@@ -211,6 +211,7 @@ shower <br/>
 toilet <br/>
 antenna <br/>
 tv <br/>
+phone <br/>
 radio <br/>
 journal <br/>
 magazine <br/>
