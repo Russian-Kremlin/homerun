@@ -106,6 +106,7 @@ fridge <br/>
 tea <br/>
 coffee <br/>
 cotton-candy <br/>
+chocolate <br/>
 popcorn <br/>
 caramel <br/>
 churros <br/>
@@ -158,6 +159,7 @@ giraffe <br/>
 hippopotamus <br/>
 aid kit <br/>
 band-aid <br/>
+condom <br/>
 gauze <br/>
 bandage <br/>
 syringe <br/>
@@ -200,9 +202,14 @@ left <br />
 right <br />
 lawyer <br />
 wardrobe <br/>
+cup <br/>
+fork <br/>
+knife <br/>
+plate <br/>
 bed <br/>
 shower <br/>
 toilet <br/>
+antenna <br/>
 tv <br/>
 radio <br/>
 journal <br/>
