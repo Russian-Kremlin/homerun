@@ -80,6 +80,7 @@ eraser <br/>
 clip <br/>
 scissors <br/>
 paper <br/>
+calculator <br/>
 money <br/>
 wallet <br/>
 passport <br />
@@ -137,6 +138,8 @@ martini <br/>
 rum <br/>
 vodka <br/>
 whiskey <br/>
+white-whine <br/>
+wine <br/>
 pool <br/>
 sandbox <br/>
 toy soldier <br/>
@@ -186,6 +189,7 @@ fedora <br />
 white-hat <br />
 black-hat <br />
 red-hat <br />
+glass <br/>
 gold <br />
 ruby <br />
 diamond <br />
@@ -215,3 +219,4 @@ phone <br/>
 radio <br/>
 journal <br/>
 magazine <br/>
+golden-buddha<br/>
