@@ -189,3 +189,6 @@ copper <br />
 gun <br />
 distinctive <br />
 helmet <br />
+magic-stick <br />
+football <br />
+satellite <br />
