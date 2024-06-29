@@ -86,11 +86,14 @@ wallet <br/>
 passport <br />
 watch <br/>
 hat <br/>
+ear-rings <br/>
 belt <br />
 tie <br />
 bikini <br/>
 shirt <br/>
 pants <br/>
+boots <br/>
+slipers <br/>
 apple <br/>
 banana <br/>
 berry <br/>
@@ -104,6 +107,7 @@ lighter <br/>
 clock <br/>
 stove <br/>
 fridge <br/>
+matchstick <br/>
 tea <br/>
 coffee <br/>
 cotton-candy <br/>
@@ -115,6 +119,10 @@ lollipop <br/>
 marshmellow <br/>
 ice cream <br/>
 bread <br/>
+cookies <br/>
+pie <br/>
+waffle <br/>
+pancakes <br/>
 table <br/>
 microwave <br/>
 basement <br/>
@@ -175,6 +183,7 @@ toilet-paper <br/>
 mushroom <br/>
 moon <br/>
 toolbox <br/>
+frame <br/>
 camera <br/>
 polaroid <br/>
 phosphorus <br />
@@ -219,4 +228,4 @@ phone <br/>
 radio <br/>
 journal <br/>
 magazine <br/>
-golden-buddha<br/>
+buddha <br/>
