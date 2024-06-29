@@ -31,7 +31,8 @@ toolbox <br/>
 trash-can <br/>
 magnet <br/>
 // END OF IGNORED //
-<br/><br/>
+<br/>
+<br/>
 fireworks <br/>
 french-horn <br/>
 piano <br/>
@@ -71,3 +72,7 @@ pig <br/>
 horse <br/>
 sheep <br/>
 unicorn <br/>
+pencil <br/>
+pen <br/>
+eraser <br/>
+clip <br/>
