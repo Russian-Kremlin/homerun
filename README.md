@@ -4,7 +4,7 @@ A generator of 512 packages collection.
 
 ## LIST
 
-/* IGNORED */ <br/>
+// IGNORED <br/>
 calendar <br/>
 compass <br/>
 snowflake <br/>
@@ -30,7 +30,7 @@ joystick <br/>
 toolbox <br/>
 trash-can <br/>
 magnet <br/>
-/* END OF IGNORED */ <br/>
+// END OF IGNORED <br/>
 <br/><br/><br/>
 red-book <br/>
 green-book <br/>
@@ -48,3 +48,4 @@ triangle <br/>
 chicken <br/>
 cow <br/>
 pig <br/>
+horse <br/>
