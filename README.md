@@ -205,6 +205,7 @@ fedora <br />
 white-hat <br />
 black-hat <br />
 red-hat <br />
+silicon <br/>
 glass <br/>
 gold <br />
 ruby <br />
