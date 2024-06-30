@@ -240,3 +240,6 @@ buddha <br/>
 whistle <br/>
 bell <br/>
 vinyl <br/>
+sword <br/>
+candle <br/>
+map <br/>
