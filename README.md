@@ -245,3 +245,6 @@ sword <br/>
 candle <br/>
 map <br/>
 storm <br/>
+politician <br/>
+musician <br/>
+worker <br/>
