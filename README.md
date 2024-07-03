@@ -166,6 +166,7 @@ pigeon <br/>
 tiger <br/>
 lion <br/>
 mouse <br/>
+monkey <br/>
 giraffe <br/>
 hippopotamus <br/>
 zebra <br/>
@@ -248,3 +249,8 @@ storm <br/>
 politician <br/>
 musician <br/>
 worker <br/>
+engine <br/>
+baseball ball <br/>
+baseball bet <br/>
+siren <br/>
+croissant <br/>
