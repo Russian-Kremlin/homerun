@@ -142,6 +142,7 @@ egg <br/>
 beef <br/>
 milk <br/>
 beer <br />
+bourbon <br />
 champagne <br/>
 martini <br/>
 rum <br/>
@@ -233,6 +234,7 @@ plate <br/>
 bed <br/>
 shower <br/>
 toilet <br/>
+bathtube <br/>
 antenna <br/>
 tv <br/>
 phone <br/>
@@ -259,3 +261,6 @@ siren <br/>
 croissant <br/>
 black tie <br/>
 brown shoes <br/>
+marble <br/>
+rubrick cube <br/>
+water-gun <br/>
