@@ -98,6 +98,7 @@ apple <br/>
 banana <br/>
 berry <br/>
 blueberry <br/>
+blackberry <br/>
 corn <br/>
 grape <br/>
 orange <br/>
@@ -241,6 +242,8 @@ magazine <br/>
 buddha <br/>
 whistle <br/>
 bell <br/>
+cd <br/>
+dvd <br/>
 vinyl <br/>
 sword <br/>
 candle <br/>
@@ -254,3 +257,5 @@ baseball ball <br/>
 baseball bet <br/>
 siren <br/>
 croissant <br/>
+black tie <br/>
+brown shoes <br/>
